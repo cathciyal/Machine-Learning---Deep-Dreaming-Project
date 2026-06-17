@@ -1,4 +1,7 @@
 
+# Machine-Learning-Deep-Dreaming-Project
+Deep Dream implementation using TensorFlow and MobileNet to generate surreal, dream-like visualizations from images.
+
 Deep Dream with MobileNet (TensorFlow)
 
 
@@ -166,6 +169,4 @@ python deep\_dream.py
 
 
 
-# Machine-Learning-Deep-Dreaming-Project
-Deep Dream implementation using TensorFlow and MobileNet to generate surreal, dream-like visualizations from images.
->>>>>>> 468ab67b6bdaf17ce0e7f955e4df3f2af0cab4f5
+
