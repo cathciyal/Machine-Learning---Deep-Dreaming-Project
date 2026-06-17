@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 Deep Dream with MobileNet (TensorFlow)
 
 
